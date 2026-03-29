@@ -1,5 +1,6 @@
+<!--Successor of "uqnquvwfkq"-->
 <h1 align="center">
-  <strong>👋 Hi, I’m @uqnquvwfkq</strong>
+  <strong>👋 Hi, I’m @vrorvwxglr</strong>
 </h1>
 
 <p align="center">
@@ -12,13 +13,10 @@
   💞️ I’m looking to collaborate on other Open source projects.
 </p>
 <p align="center">
-  📫 How to reach me: uqnquvwfkq@gmail.com
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/uqnquvwfkq" alt="Github Followers">
+  📫 How to reach me: vrorvwxglr@gmail.com
 </p>
 
 <!---
-uqnquvwfkq/uqnquvwfkq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vrorvwxglr/vrorvwxglr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
