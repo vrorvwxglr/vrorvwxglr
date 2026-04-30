@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  👀 I’m interested in Small language models, Web devlopment, Game devlopment.
+  👀 I’m interested in Small language models, Web devlopment.
 </p>
 <p align="center">
   🌱 I’m currently learning Tensorflow.
