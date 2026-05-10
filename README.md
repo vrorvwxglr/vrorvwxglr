@@ -1,19 +1,19 @@
 <!--Successor of "uqnquvwfkq"-->
 <h1 align="center">
-  <strong>👋 Hi, I’m @vrorvwxglr</strong>
+  <strong>Hi, I’m @vrorvwxglr</strong>
 </h1>
 
 <p align="center">
-  👀 I’m interested in Small language models, Web devlopment.
+  I’m interested in Small language models, Web devlopment.
 </p>
 <p align="center">
-  🌱 I’m currently learning Tensorflow.
+  I’m currently learning Tensorflow.
 </p>
 <p align="center">
-  💞️ I’m looking to collaborate on other Open source projects.
+  I’m looking to collaborate on other Open source projects.
 </p>
 <p align="center">
-  📫 How to reach me: vrorvwxglr@gmail.com
+  How to reach me: uqnquvwfkq@gmail.com
 </p>
 
 <!---
